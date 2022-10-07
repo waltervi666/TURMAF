@@ -11,3 +11,5 @@
  este é o link do html teste: https://waltervi666.github.io/TURMAF/
  
  caro professor,peço encarecidamente(quando eu terminar) que acesse o remake do meu site que está localizado na pasta vgod deste repositório
+ 
+ - apaguei tudo e upei de novo por que tava lotado o repositório nem eu tava entendendo mais,eu não fiz de ultima hora
