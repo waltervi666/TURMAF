@@ -12,4 +12,4 @@
  
  caro professor,peço encarecidamente(quando eu terminar) que acesse o remake do meu site que está localizado na pasta vgod deste repositório *não acesse mais,está tudo acertado
  
- - apaguei tudo e upei de novo por que tava lotado o repositório nem eu tava entendendo mais,eu não fiz de ultima hora(eu tenho tudo salvo no meu hd,até mesmo a data.)
+ - apaguei tudo e upei de novo por que tava lotado o repositório nem eu tava entendendo mais
