@@ -1,4 +1,0 @@
-esta parte onde se encontraria uma tabela,junto com uma calculadora de IMC  
-acredito que seja desnecessário dentro do contexto do meu site,por isso resolvi não aplicá-la
-também,não tem calculo algum que eu poderia aplicar
-minha sinceras desculpas.
